@@ -1,6 +1,8 @@
 <img src="https://github.com/Divyanshu-85/Divyanshu-85/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png">
+
+<img src="https://github.com/Divyanshu-85/Divyanshu-85/blob/main/x6zl7327.webp">
+
 <!--
-<img src="https://github.com/Divyanshu-85/Divyanshu-85/blob/main/Gif/Emhs.gif">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
