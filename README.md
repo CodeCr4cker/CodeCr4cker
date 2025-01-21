@@ -1,6 +1,6 @@
 <img src="https://github.com/Divyanshu-85/Divyanshu-85/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png">
 
-<img src="https://github.com/Divyanshu-85/Divyanshu-85/blob/main/x6zl7327.webp">
+<img src="https://github.com/Divyanshu-85/Divyanshu-85/blob/main/249e6b727205861e4c367173d95007e6.jpg">
 
 <!--
 - 🔭 I’m currently working on ...
