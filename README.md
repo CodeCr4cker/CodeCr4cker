@@ -9,9 +9,11 @@
   <img src="https://github.com/Divyanshu-85/Divyanshu-85/blob/main/Navy_Blue_Geometric_Technology_LinkedIn_Banner-removebg-preview.png" alt="LinkedIn Banner">
 </div>
 -->
+<!--
 <div style="text-align: center;">
   <img src="https://github.com/Divyanshu-85/Divyanshu-85/blob/main/1000179512-removebg-preview.png" alt="Profile Image">
 </div>
+-->
 <!--
 <img src="https://github.com/Divyanshu-85/Divyanshu-85/blob/main/1000179512-removebg-preview.png">
 -->
