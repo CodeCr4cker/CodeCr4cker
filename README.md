@@ -4,7 +4,7 @@
 -->
 
 <div style="text-align: center;">
-  <img src="https://github.com/Divyanshu-85/Divyanshu-85/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="LinkedIn Banner">
+  <img src="https://github.com/Divyanshu-85/Divyanshu-85/blob/main/Navy_Blue_Geometric_Technology_LinkedIn_Banner-removebg-preview.png" alt="LinkedIn Banner">
 </div>
 
 <div style="text-align: center;">
