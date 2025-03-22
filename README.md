@@ -1,6 +1,6 @@
 <p align="center">
 
- <img src="https://github.com/CodeCr4cker/CodeCr4cker/blob/main/1000207624-removebg-preview.png" hight="20px" width="20px">
+ <img src="https://github.com/CodeCr4cker/CodeCr4cker/blob/main/1000207624-removebg-preview.png" hight="50px" width="50px">
 
 </p>
 
