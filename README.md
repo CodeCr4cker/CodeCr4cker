@@ -8,47 +8,6 @@
 ```
 git clone
 ```
-
-
-```
-import os
-import subprocess
-
-def create_folders_and_push_to_github(repo_path, folders):
-    # Navigate to the repository path
-    os.chdir(repo_path)
-
-    # Step 1: Create folders
-    for folder in folders:
-        os.makedirs(folder, exist_ok=True)
-        # Create a .gitkeep file inside each folder to ensure Git tracks it
-        with open(os.path.join(folder, '.gitkeep'), 'w') as f:
-            pass  # Just creating an empty .gitkeep file
-
-    # Step 2: Add changes to git
-    subprocess.run(["git", "add", "."], check=True)
-    
-    # Step 3: Commit the changes
-    subprocess.run(["git", "commit", "-m", "Added multiple folders with .gitkeep files"], check=True)
-
-    # Step 4: Push changes to GitHub
-    subprocess.run(["git", "push", "origin", "main"], check=True)  # Replace 'main' if you use a different branch
-
-    print("Folders created and changes pushed to GitHub.")
-
-if __name__ == "__main__":
-    # Path to your local GitHub repository
-    repo_path = input("Enter the path to your local GitHub repository: ")
-
-    # Ask user for folder names
-    folders_input = input("Enter the folder names separated by commas (e.g., folder1,folder2,folder3): ")
-
-    # Split the input into a list of folder names
-    folders = [folder.strip() for folder in folders_input.split(",")]
-
-    # Call the function to create folders and push to GitHub
-    create_folders_and_push_to_github(repo_path, folders)
-````
 <!--
  <img src="https://github.com/Divyanshu-85/Divyanshu-85/blob/main/Dark-Green-Modern-Initial-Logo-unscreen%20(1).gif" height="200px">
 	
