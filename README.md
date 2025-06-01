@@ -20,6 +20,8 @@
  <img src="https://github.com/CodeCr4cker/CodeCr4cker/blob/main/1000207624-removebg-preview.png">
 
 </p>
+
+<!--
 <p align="center">
 
                                     @@                                    .=:
@@ -39,5 +41,5 @@
         -%@@@@=.  .%@@@#-    .*@@%:=@+   :%@@@@+    .=%@@@%:  *@*         -@#.   -#@@@-  +@+  .%@*  .#@@@@*.  %@+
 
 </p>
-
+-->
 
