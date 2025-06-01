@@ -1,3 +1,4 @@
+
 <!--
                                     @@                                    .=:
           :#@@=                     @@                .==:                *@*.
@@ -17,10 +18,11 @@
 -->
 <p align="center">
 
- <img src="https://github.com/CodeCr4cker/CodeCr4cker/blob/main/1000207624-removebg-preview.png">
+ <img src="https://github.com/CodeCr4cker/CodeCr4cker/blob/main/1000207624-removebg-preview.png" height="200px">
 
 </p>
 
+<img src="https://github.com/Divyanshu-85/Required-Document/blob/main/Skills_Animation_Dark.gif" height="250px">
 <!--
 <p align="center">
 
