@@ -75,7 +75,7 @@ git branch -M main
 
 ➡️Step:-6
 ```
-git remote add origin 
+git remote add origin https://github.com/CodeCr4cker/react-chat-app.git
 ```
 replace the above link 
 
