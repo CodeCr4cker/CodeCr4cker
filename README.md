@@ -45,3 +45,42 @@
 </p>
 -->
 
+<hr>
+<h1>upload a complete folder on github using <u> <b>Git bash</b> </u> </h1>
+
+➡️Step:-1
+```
+git init
+```
+
+➡️Step:-2
+```
+git add .
+```
+
+➡️Step:-3
+```
+git status
+```
+
+➡️Step:-4
+```
+git commit -m "forst commit"
+```
+
+➡️Step:-5
+```
+git branch -M main
+```
+
+➡️Step:-6
+```
+git remote add origin 
+```
+replace the above link 
+
+➡️Step:-7
+```
+git push -u origin main
+```
+if error occur change main into master as given in git bash
