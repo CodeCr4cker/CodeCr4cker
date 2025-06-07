@@ -92,5 +92,5 @@ npm run deploy
 ```
 git add src/App.jsx
 git commit -m "Update App.jsx with latest features"
-git push origin main
+git push origin master
 ```
