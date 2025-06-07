@@ -99,6 +99,12 @@ npm install --save gh-pages
 
 ```
 ```
+rm -rf build
+npm run build
+npm run deploy
+
+```
+```
 Published build to gh-pages.
 
 ```
