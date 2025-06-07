@@ -85,4 +85,6 @@ git push -u origin main
 ```
 if error occur change main into master as given in git bash
 
-```npm run deploy```
+```
+npm run deploy
+```
