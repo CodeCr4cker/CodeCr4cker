@@ -94,3 +94,7 @@ git add src/App.jsx
 git commit -m "Update App.jsx with latest features"
 git push origin master
 ```
+```
+npm install --save gh-pages 
+
+```
