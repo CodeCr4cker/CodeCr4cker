@@ -88,3 +88,9 @@ if error occur change main into master as given in git bash
 ```
 npm run deploy
 ```
+
+```
+git add src/App.jsx
+git commit -m "Update App.jsx with latest features"
+git push origin main
+```
