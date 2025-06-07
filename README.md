@@ -98,3 +98,7 @@ git push origin master
 npm install --save gh-pages 
 
 ```
+```
+Published build to gh-pages.
+
+```
