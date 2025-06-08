@@ -122,16 +122,12 @@ Published build to gh-pages.
 
 ```
 npm install @capacitor/core @capacitor/cli && \
-npm run build
-
-npx cap init "BuddyTalk" "com.CoderCr4cker.BuddyTalk" --web-dir=build && \
 npm run build && \
+npx cap init "BuddyTalk" "com.CoderCr4cker.BuddyTalk" --web-dir=build && \
 npx cap add android && \
+npx cap add ios && \
 npx cap copy && \
 npx cap open android && \
-npx cap add ios && \
 npx cap open ios
-
-
 
 ```
