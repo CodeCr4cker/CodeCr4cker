@@ -122,6 +122,8 @@ Published build to gh-pages.
 
 ```
 npm install @capacitor/core @capacitor/cli && \
+npm run build
+
 npx cap init "BuddyTalk" "com.CoderCr4cker.BuddyTalk" --web-dir=build && \
 npm run build && \
 npx cap add android && \
