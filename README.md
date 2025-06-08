@@ -70,7 +70,7 @@ git commit -m "forst commit"
 
 ➡️Step:-5
 ```
-git branch -M main
+git branch -M master
 ```
 
 ➡️Step:-6
@@ -81,7 +81,7 @@ replace the above link
 
 ➡️Step:-7
 ```
-git push -u origin main
+git push -u origin master 
 ```
 if error occur change main into master as given in git bash
 
