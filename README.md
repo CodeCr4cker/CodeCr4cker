@@ -95,8 +95,19 @@ git commit -m "Update App.jsx with latest features"
 git push origin master
 ```
 ```
-npm install --save gh-pages 
+npm install
+npm install --save gh-pages
+npm install firebase 
 
+```
+```
+git init
+git add .
+git status
+git commit -m "commit"
+git branch -M master
+git remote add origin https://github.com/CodeCr4cker/Test.git
+git push -u origin master
 ```
 ```
 rm -rf build
