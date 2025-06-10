@@ -133,3 +133,63 @@ npx cap open android && \
 npx cap open ios
 
 ```
+
+
+
+
+# 1. Install dependencies
+```
+npm install
+```
+
+# 2. Install gh-pages globally (if needed)
+```
+npm install -g gh-pages
+```
+# 3. Install gh-pages as a project dependency
+```
+npm install --save gh-pages
+```
+
+# 4. Add your updated JSX file (make sure the path and filename are correct)
+```
+git add src/App.jsx
+```
+# 5. Commit changes
+```
+git commit -m "Update App.jsx"
+```
+# 6. Push to master branch
+```
+git push origin master
+```
+# 7. Clean old build (this command is wrong as written)
+```
+rm -rf build
+```
+# 8. Create a new production build
+```
+npm run build
+```
+# 9. Deploy to GitHub Pages
+```
+npm run deploy
+```
+# 10. Alternatively, you can use this command (but only if deploy script is not defined in package.json)
+```
+# npx gh-pages -d build
+```
+# 11. Add your image files
+```
+git add public/images/logo.png
+```
+````
+git add public/images/About.png
+```
+# 12. Commit and push
+```
+git commit -m "Add logo images"
+```
+```
+git push origin master
+```
