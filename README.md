@@ -183,7 +183,7 @@ npm run deploy
 ```
 git add public/images/logo.png
 ```
-````
+```
 git add public/images/About.png
 ```
 # 12. Commit and push
