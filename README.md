@@ -49,9 +49,9 @@ My chatting app <a href="https://codecr4cker.github.io/react-chat-app/"> Click h
 project output <a href="https://codecr4cker.github.io/react-wavy-transitions/">here</a>
 <hr>
 
-| Field            | Value                      |
+| command          | use.                       |
 |------------------|----------------------------|
-| code-2-pdf          |                            |
+| ```git init```         |                            |
 | OS/Platform      |                            |
 | Priority         | Low / Medium / High        |
 | Issue Type       | Bug / Feature / Question   |
