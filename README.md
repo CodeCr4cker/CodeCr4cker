@@ -48,6 +48,18 @@ My chatting app <a href="https://codecr4cker.github.io/react-chat-app/"> Click h
 <Br>
 project output <a href="https://codecr4cker.github.io/react-wavy-transitions/">here</a>
 <hr>
+
+| Field            | Value                      |
+|------------------|----------------------------|
+| code-2-pdf          |                            |
+| OS/Platform      |                            |
+| Priority         | Low / Medium / High        |
+| Issue Type       | Bug / Feature / Question   |
+| Reproducible     | Yes / No                   |
+| Screenshot/File  | (Attach if any)            |
+
+
+
 <h1>upload a complete folder on github using <u> <b>Git bash</b> </u> </h1>
 
 ➡️Step:-1
