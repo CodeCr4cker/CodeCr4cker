@@ -11,7 +11,7 @@
 |----------------------------------------------|----------------------------|----------------------|
 | Convert code into pdf  | <a href="https://codecr4cker.github.io/Code-2-pdf/"> click here </a>| <img src="https://github.com/CodeCr4cker/Code-2-pdf/blob/master/images/example.png" height="300px" width="500px">                  |
 | My chatting app        |  <a href="https://codecr4cker.github.io/react-chat-app/"> Click here </a>             |<img src="https://github.com/CodeCr4cker/Code-2-pdf/blob/master/images/example.png" height="300px" width="500px">
-| wifi Hacking         | <a href="https://github.com/CodeCr4cker/Wifi-Hacking/blob/main/Snapshots/0.png"> Click here </a>        |<img src="https://github.com/CodeCr4cker/Code-2-pdf/blob/master/images/example.png" height="300px" width="500px">
+| wifi Hacking         | <a href="https://codecr4cker.github.io/Wifi-Hacking/"> Click here </a>        |<img src="https://github.com/CodeCr4cker/Wifi-Hacking/blob/main/Snapshots/0.png" height="300px" width="500px">
 | Issue Type       | Bug / Feature / Question   |
 | Reproducible     | Yes / No                   |
 | Screenshot/File  | (Attach if any)            |
