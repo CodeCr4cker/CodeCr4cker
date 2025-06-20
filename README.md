@@ -5,7 +5,7 @@
 
 </p>
 
-<!--
+
 
 
 
@@ -30,7 +30,7 @@
 | Screenshot/File  | (Attach if any)            |
 
 
-
+<!--
 <h1>upload a complete folder on github using <u> <b>Git bash</b> </u> </h1>
 
 ➡️Step:-1
