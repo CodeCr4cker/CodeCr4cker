@@ -51,7 +51,7 @@ project output <a href="https://codecr4cker.github.io/react-wavy-transitions/">h
 
 | repo.            | use.                       |
 |------------------|----------------------------|
-| code-2-pdf         |                            |
+| Convert code into pdf         | <a href="https://codecr4cker.github.io/Code-2-pdf/"> click here </a>                           |
 | OS/Platform      |                            |
 | Priority         | Low / Medium / High        |
 | Issue Type       | Bug / Feature / Question   |
