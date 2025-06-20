@@ -12,8 +12,8 @@ My chatting app <a href="https://codecr4cker.github.io/react-chat-app/"> Click h
 project output <a href="https://codecr4cker.github.io/react-wavy-transitions/">here</a>
 <hr>
 
-| repo.                            | use.                       |
-|----------------------------------|----------------------------|
+| Avilable Projects                            | use.                       |
+|----------------------------------------------|----------------------------|
 | Convert code into pdf  | <a href="https://codecr4cker.github.io/Code-2-pdf/"> click here </a>                  |
 | My chatting app        |  <a href="https://codecr4cker.github.io/react-chat-app/"> Click here </a>             |
 | Priority         | Low / Medium / High        |
