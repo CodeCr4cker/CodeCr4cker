@@ -14,7 +14,7 @@ project output <a href="https://codecr4cker.github.io/react-wavy-transitions/">h
 
 | Avilable Projects                            | use.                       |images                        |
 |----------------------------------------------|----------------------------|----------------------|
-| Convert code into pdf  | <a href="https://codecr4cker.github.io/Code-2-pdf/"> click here </a>| <img src="https://github.com/CodeCr4cker/Code-2-pdf/blob/master/images/example.png" height="250px" width="350px">                  |
+| Convert code into pdf  | <a href="https://codecr4cker.github.io/Code-2-pdf/"> click here </a>| <img src="https://github.com/CodeCr4cker/Code-2-pdf/blob/master/images/example.png" height="250px" width="450px">                  |
 | My chatting app        |  <a href="https://codecr4cker.github.io/react-chat-app/"> Click here </a>             |
 | Priority         | Low / Medium / High        |
 | Issue Type       | Bug / Feature / Question   |
