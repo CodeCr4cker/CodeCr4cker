@@ -5,11 +5,6 @@
 
 </p>
 
-<img src="https://github.com/Divyanshu-85/Required-Document/blob/main/Skills_Animation_Dark.gif" height="250px">
-
-My chatting app <a href="https://codecr4cker.github.io/react-chat-app/"> Click here </a>
-<Br>
-project output <a href="https://codecr4cker.github.io/react-wavy-transitions/">here</a>
 <hr>
 
 | Avilable Projects                            | use.                       |images                        |
