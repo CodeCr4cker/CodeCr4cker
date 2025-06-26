@@ -1,7 +1,7 @@
 
 <p align="center">
 
- <img src="https://github.com/CodeCr4cker/CodeCr4cker/blob/main/Banner.jpg" width="200px">
+ <img src="https://github.com/CodeCr4cker/CodeCr4cker/blob/main/Banner.jpg" width="500px">
 
 </p>
 
