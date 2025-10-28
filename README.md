@@ -76,16 +76,16 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)](https://github.com/yourusername)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)](https://github.com/CodeCr4cker)
 
-## 🌟 Featured Projects
+<!--## 🌟 Featured Projects
 
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name&theme=radical&hide_border=true)](https://github.com/yourusername/project-name)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-project&theme=radical&hide_border=true)](https://github.com/yourusername/another-project)
 
-</div>
+</div> -->
 <!--
 ## 📝 Latest Blog Posts
 
