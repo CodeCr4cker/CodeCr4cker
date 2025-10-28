@@ -1,4 +1,4 @@
-# Hi there, I'm [Divyanshu Pandey] 👋
+# Hi there, I'm Divyanshu Pandey 👋
 
 <div align="center">
   
