@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- FIXED BANNER - no special characters in URL -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divyanshu%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Student%20%C2%B7%20Creator&descAlignY=60&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divyanshu+Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android+%26+Web+Developer&descAlignY=60&descAlign=50" />
 
-<!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Initializing+experience...;Android+%26+Web+Developer;Frontend+Craftsman+%7C+UI+Enthusiast;Building+Immersive+Digital+Experiences;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
@@ -43,6 +41,7 @@ I'm a passionate **Android & Web Developer** with a keen eye for design and a fl
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
@@ -112,7 +111,8 @@ Built a strong analytical foundation — and quietly mastered web & Android deve
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeCr4cker&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
+<!-- FIXED: Removed include_all_commits and count_private to prevent fetch error -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeCr4cker&show_icons=true&theme=midnight-purple&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCr4cker&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
 
 </div>
