@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- FIXED BANNER - no special characters in URL -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divyanshu+Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android+%26+Web+Developer&descAlignY=60&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divyanshu%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Student%20%C2%B7%20Creator&descAlignY=60&descAlign=50" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Initializing+experience...;Android+%26+Web+Developer;Frontend+Craftsman+%7C+UI+Enthusiast;Building+Immersive+Digital+Experiences;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
