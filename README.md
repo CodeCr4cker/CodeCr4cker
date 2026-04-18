@@ -1,68 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Divyanshu%20Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Firebase%20%26%20React%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<!-- FIXED BANNER - no special characters in URL -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divyanshu+Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android+%26+Web+Developer&descAlignY=60&descAlign=50" />
 
-</div>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Initializing+experience...;Android+%26+Web+Developer;Frontend+Craftsman+%7C+UI+Enthusiast;Building+Immersive+Digital+Experiences;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Firebase+%26+React+Enthusiast+%F0%9F%94%A5;Android+%26+Web+Developer+%F0%9F%93%B1;Always+Learning+New+Things+%F0%9F%8C%B1;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-i--am--divyanshu-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://i-am-divyanshu.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-CodeCr4cker-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeCr4cker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=CodeCr4cker&label=Profile+Views&color=7C3AED&style=flat-square)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df3c79cf287165649d0e851/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+## 🙂 💻 About Me
 
-## 🧑‍💻 About Me
-
-```js
+```javascript
 const divyanshu = {
-  name: "Divyanshu Pandey",
-  alias: "CodeCr4cker",
-  location: "India 🇮🇳",
+  name              : "Divyanshu Pandey",
+  alias             : "CodeCr4cker",
+  location          : "India IN",
   currently_learning: ["Kotlin", "Firebase Cloud Functions", "Next.js"],
-  ask_me_about: ["React", "Firebase", "Android", "Node.js"],
-  fun_fact: "I blend creativity with code — and coffee ☕",
-  open_to: ["Open Source", "Real-time Apps", "Collaborations"],
+  ask_me_about      : ["React", "Firebase", "Android", "Node.js"],
+  fun_fact          : "I blend creativity with code — and coffee",
+  open_to           : ["Open Source", "Real-time Apps", "Collaborations"],
 };
 ```
 
-<br clear="right"/>
+I'm a passionate **Android & Web Developer** with a keen eye for design and a flair for creating seamless, user-friendly digital experiences. I specialize in **turning ideas into pixel-perfect, functional interfaces** — and I thrive on collaborating with teams to deliver solutions that exceed expectations.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-<div align="center">
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-**Languages**
+### Android
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frontend**
+### CMS & Design
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-**Backend & Database**
+---
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## 🌟 What I Specialize In
 
-**Tools & Platforms**
+| Specialization | Description |
+|---|---|
+| ⚡ **Frontend Development** | Responsive, pixel-perfect, performance-optimized interfaces |
+| 📱 **Android Development** | Native Android apps with Kotlin, Firebase & real-time features |
+| 🧩 **WordPress Development** | Custom themes, plugin dev, Elementor customization |
+| 🎨 **Web Design** | Stunning layouts from scratch or complete redesigns |
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
+---
 
-</div>
+## 💼 Experience
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  🏢  eUttaranchal — Frontend & WordPress Developer           │
+│  📌  Built websites, crafted custom themes,                  │
+│      enhanced digital presence with clean, scalable code     │
+├──────────────────────────────────────────────────────────────┤
+│  🎓  Internship @ eUttaranchal — Web Dev & Design Intern     │
+│  📌  Learned HTML, CSS, JS; developed the company website;   │
+│      collaborated with experienced professionals             │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎓 Education
+
+**Sri Dev Suman Uttarakhand University**
+*Physics, Chemistry & Mathematics*
+
+Built a strong analytical foundation — and quietly mastered web & Android development on the side.
 
 ---
 
@@ -70,77 +112,41 @@ const divyanshu = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeCr4cker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=7f77dd&icon_color=1d9e75&text_color=a0a0c0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCr4cker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7f77dd&text_color=a0a0c0" height="165"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeCr4cker&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCr4cker&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeCr4cker&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7f77dd&fire=ef9f27&currStreakLabel=1d9e75)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CodeCr4cker&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🖥️ Portfolio Dimensions
 
-<div align="center">
+| Dimension | Type | Features |
+|---|---|---|
+| 🧳 **Professional** | SPA Portfolio | Projects, Blog, Timeline, Gallery, Resume |
+| 🖥️ **Creative OS** | Immersive Desktop | Terminal, Live Windows, Dock, PWA, Draggable UI |
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=CodeCr4cker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeCr4cker&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=7f77dd&line=1d9e75&point=ef9f27)](https://github.com/CodeCr4cker)
-
-</div>
+🔗 **Live:** [i-am-divyanshu.netlify.app](https://i-am-divyanshu.netlify.app/)
 
 ---
 
-## 🌟 Featured Projects
+## 📬 Let's Connect
 
 <div align="center">
 
-[![Buddy Chat](https://github-readme-stats.vercel.app/api/pin/?username=CodeCr4cker&repo=Buddy-Chat&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7f77dd&icon_color=1d9e75&text_color=a0a0c0)](https://github.com/CodeCr4cker/Buddy-Chat)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=CodeCr4cker&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7f77dd&icon_color=1d9e75&text_color=a0a0c0)](https://github.com/CodeCr4cker/Portfolio)
+*"I blend creativity with code — open to Open Source, Real-time Apps and Collaborations!"*
 
-</div>
+<br/>
 
----
-
-## 🎯 Current Goals
-
-```
-🤖  Build an AI-powered Chat Assistant using React + Firebase
-📱  Launch my portfolio Android app on Play Store  
-🌍  Contribute more to open source and community projects
-```
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dp2008)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://i-am-divyanshu.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeCr4cker)
-
-</div>
-
----
-
-## 💡 Dev Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://i-am-divyanshu.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 </div>
 
@@ -148,20 +154,8 @@ const divyanshu = {
 
 <div align="center">
 
-## 👀 Profile Views
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-![Visitor Count](https://profile-counter.glitch.me/CodeCr4cker/count.svg)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-
-</div>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
+*System Online · Always Building Something New · CodeCr4cker* 🚀
 
 </div>
