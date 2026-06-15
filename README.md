@@ -30,7 +30,13 @@ const divyanshu = {
 };
 ```
 
-I'm a passionate **Android & Web Developer** with a keen eye for design and a flair for creating seamless, user-friendly digital experiences. I specialize in **turning ideas into pixel-perfect, functional interfaces** — and I thrive on collaborating with teams to deliver solutions that exceed expectations.
+🚀 Aspiring Web Developer & Tech Enthusiast
+Currently learning and building projects with HTML, CSS, JavaScript, React, Python, and Cybersecurity. I enjoy turning ideas into practical applications, exploring new technologies, and improving my problem-solving skills through hands-on projects.
+
+📚 Always learning, experimenting, and growing as a developer.
+💡 Open to collaboration, feedback, and new opportunities to learn.
+
+"Code, Learn, Build, Repeat."
 
 ---
 
