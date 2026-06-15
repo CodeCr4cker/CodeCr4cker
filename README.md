@@ -55,16 +55,7 @@ I'm a passionate **Android & Web Developer** with a keen eye for design and a fl
 
 ---
 
-## 🌟 What I Specialize In
 
-| Specialization | Description |
-|---|---|
-| ⚡ **Frontend Development** | Responsive, pixel-perfect, performance-optimized interfaces |
-| 📱 **Android Development** | Native Android apps with Kotlin, Firebase & real-time features |
-| 🧩 **WordPress Development** | Custom themes, plugin dev, Elementor customization |
-| 🎨 **Web Design** | Stunning layouts from scratch or complete redesigns |
-
----
 
 ## 💼 Experience
 
@@ -80,16 +71,7 @@ I'm a passionate **Android & Web Developer** with a keen eye for design and a fl
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
 
-## 🎓 Education
-
-**Sri Dev Suman Uttarakhand University**
-*Physics, Chemistry & Mathematics*
-
-Built a strong analytical foundation — and quietly mastered web & Android development on the side.
-
----
 
 ## 📊 GitHub Stats
 
@@ -114,7 +96,7 @@ Built a strong analytical foundation — and quietly mastered web & Android deve
 | Dimension | Type | Features |
 |---|---|---|
 | 🧳 **Professional** | SPA Portfolio | Projects, Blog, Timeline, Gallery, Resume |
-| 🖥️ **Creative OS** | Immersive Desktop | Terminal, Live Windows, Dock, PWA, Draggable UI |
+| 🖥️ **Creative OS** | Immersive Desktop | Terminal, Live Windows |
 
 🔗 **Live:** [i-am-divyanshu.netlify.app](https://i-am-divyanshu.netlify.app/)
 
