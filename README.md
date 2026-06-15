@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divyanshu%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Student%20%C2%B7%20Creator&descAlignY=60&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Divyanshu+Pandey;Class+12+Student+(PCM);Aspiring+Software+Developer;Learning+Web+Development+and+Python;Exploring+Cybersecurity;Creating+Projects+Through+Continuous+Learning;Future+Computer+Science+Professional+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Divyanshu+Pandey;Tech+Enthusiast+%26+Aspiring+Developer;Learning+Web+Development;Exploring+Python+and+Cybersecurity;Creating+Projects+One+Step+at+a+Time;Always+Learning+Something+New;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
 
 
 <br/>
