@@ -25,7 +25,7 @@ const divyanshu = {
   alias             : "CodeCr4cker",
   location          : "India IN",
   currently_learning: [ "Firebase Cloud Functions", "Python"],
-  ask_me_about      : ["Python", "Firebase", "CSS", "HTML"],
+  ask_me_about      : ["HTML", "CSS", "JavaScript", "Firebase"],
   fun_fact          : "I blend creativity with code — and coffee",
 };
 ```
