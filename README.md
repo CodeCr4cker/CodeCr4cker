@@ -30,8 +30,8 @@ const divyanshu = {
 };
 ```
 
-🚀 Aspiring Web Developer & Tech Enthusiast
-Currently learning and building projects with HTML, CSS, JavaScript, React, Python, and Cybersecurity. I enjoy turning ideas into practical applications, exploring new technologies, and improving my problem-solving skills through hands-on projects.
+🚀 **Aspiring Web Developer & Tech Enthusiast**
+<p>Currently learning and building projects with HTML, CSS, JavaScript, React, Python, and Cybersecurity. I enjoy turning ideas into practical applications, exploring new technologies, and improving my problem-solving skills through hands-on projects.</p>
 
 📚 Always learning, experimenting, and growing as a developer.
 💡 Open to collaboration, feedback, and new opportunities to learn.
