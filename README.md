@@ -25,8 +25,8 @@ const divyanshu = {
   name              : "Divyanshu Pandey",
   alias             : "CodeCr4cker",
   location          : "India IN",
-  currently_learning: [ "Firebase Cloud Functions", "Python"],
-  ask_me_about      : ["HTML", "CSS", "JavaScript", "Firebase"],
+  currently_learning: [ "C programming", "Python", "java"],
+  ask_me_about      : ["HTML", "CSS", "Python"],
   fun_fact          : "I blend creativity with code — and coffee",
 };
 ```
