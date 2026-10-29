@@ -122,21 +122,14 @@ const divyanshu = {
 <a id="projects"></a>
 ## 📌 Featured Projects
 
-<div align="center">
+<!-- Static cards: no external image service, so they always render.
+     To add a project, copy one table row and change the name, link, description and badges. -->
 
-<a href="https://i-am-divyanshu.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Live-7C3AED?style=for-the-badge" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/CodeCr4cker/Python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCr4cker&repo=Python&theme=midnight-purple&hide_border=true" />
-</a>
-
-<!-- To add more project cards, copy the block above and change repo=Python to your repo name -->
-
-</div>
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| 🌐 **Portfolio Website** | Personal portfolio with a professional SPA and an immersive "Creative OS" desktop experience | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square)](https://i-am-divyanshu.netlify.app/) |
+| 🐍 **Python** | My Python practice and learning projects | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/CodeCr4cker/Python) |
+| 🚀 **Next Project** | Coming soon, stay tuned! | ![Status](https://img.shields.io/badge/Status-In_Progress-A78BFA?style=flat-square) | [![Follow](https://img.shields.io/badge/Follow_Me-181717?style=flat-square&logo=github)](https://github.com/CodeCr4cker) |
 
 <details>
 <summary><b>🌐 About my Portfolio Website</b></summary>
