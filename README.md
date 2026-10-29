@@ -13,30 +13,36 @@
 
 <!-- Visitor counters -->
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeCr4cker&label=Profile+Views&color=7C3AED&style=for-the-badge)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CodeCr4cker.CodeCr4cker&left_color=302b63&right_color=7C3AED&left_text=Visitors)
+![Total Visits](https://hits.sh/github.com/CodeCr4cker.svg?style=for-the-badge&label=Total%20Visits&color=7C3AED&labelColor=302b63)
 ![Followers](https://img.shields.io/github/followers/CodeCr4cker?label=Followers&style=for-the-badge&logo=github&color=7C3AED)
 ![Stars](https://img.shields.io/github/stars/CodeCr4cker?label=Total%20Stars&style=for-the-badge&logo=github&color=A78BFA)
 
 </div>
 
+<br/>
+
+<!-- ═════════════ NAVIGATION MENU ═════════════ -->
+<div align="center">
+
+### ✦ &nbsp;QUICK NAVIGATION&nbsp; ✦
+
+[![About](https://img.shields.io/badge/👤_ABOUT-7C3AED?style=for-the-badge)](#about)
+[![Working On](https://img.shields.io/badge/🔭_WORKING_ON-6D28D9?style=for-the-badge)](#working-on)
+[![Tech Stack](https://img.shields.io/badge/⚙️_TECH_STACK-5B21B6?style=for-the-badge)](#tech-stack)
+[![Projects](https://img.shields.io/badge/📌_PROJECTS-4C1D95?style=for-the-badge)](#projects)
+
+[![Experience](https://img.shields.io/badge/💼_EXPERIENCE-4C1D95?style=for-the-badge)](#experience)
+[![Stats](https://img.shields.io/badge/📊_STATS-5B21B6?style=for-the-badge)](#stats)
+[![Roadmap](https://img.shields.io/badge/🎯_ROADMAP-6D28D9?style=for-the-badge)](#roadmap)
+[![Connect](https://img.shields.io/badge/📬_CONNECT-7C3AED?style=for-the-badge)](#connect)
+
+</div>
+
+<br/>
+
 ---
 
-## 📑 Table of Contents
-
-- [About Me](#-about-me)
-- [Currently Working On](#-currently-working-on)
-- [Tech Stack](#️-tech-stack)
-- [Featured Projects](#-featured-projects)
-- [Experience](#-experience)
-- [GitHub Stats](#-github-stats)
-- [Contribution Activity](#-contribution-activity)
-- [Trophies](#-trophies)
-- [Goals & Roadmap](#-goals--roadmap)
-- [Portfolio Dimensions](#️-portfolio-dimensions)
-- [Let's Connect](#-lets-connect)
-
----
-
+<a id="about"></a>
 ## 🙂 About Me
 
 ```javascript
@@ -61,8 +67,11 @@ const divyanshu = {
 
 > *"Code, Learn, Build, Repeat."*
 
+<div align="right"><a href="#top">⬆ back to top</a></div>
+
 ---
 
+<a id="working-on"></a>
 ## 🔭 Currently Working On
 
 | Status | Focus |
@@ -73,8 +82,11 @@ const divyanshu = {
 | 💬 **Ask me about** | HTML, CSS, Python, WordPress |
 | ⚡ **Fun fact** | Most of my code is written with coffee ☕ |
 
+<div align="right"><a href="#top">⬆ back to top</a></div>
+
 ---
 
+<a id="tech-stack"></a>
 ## ⚙️ Tech Stack
 
 ### 🎨 Frontend
@@ -103,41 +115,44 @@ const divyanshu = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+<div align="right"><a href="#top">⬆ back to top</a></div>
+
 ---
 
+<a id="projects"></a>
 ## 📌 Featured Projects
 
-<!-- Replace "YOUR-REPO-NAME" with your real repository names -->
 <div align="center">
 
-<a href="https://github.com/CodeCr4cker/YOUR-REPO-NAME-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCr4cker&repo=YOUR-REPO-NAME-1&theme=midnight-purple&hide_border=true" />
-</a>
-<a href="https://github.com/CodeCr4cker/YOUR-REPO-NAME-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCr4cker&repo=YOUR-REPO-NAME-2&theme=midnight-purple&hide_border=true" />
+<a href="https://i-am-divyanshu.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Live-7C3AED?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/CodeCr4cker/YOUR-REPO-NAME-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCr4cker&repo=YOUR-REPO-NAME-3&theme=midnight-purple&hide_border=true" />
+<br/><br/>
+
+<a href="https://github.com/CodeCr4cker/Python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCr4cker&repo=Python&theme=midnight-purple&hide_border=true" />
 </a>
-<a href="https://github.com/CodeCr4cker/YOUR-REPO-NAME-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCr4cker&repo=YOUR-REPO-NAME-4&theme=midnight-purple&hide_border=true" />
-</a>
+
+<!-- To add more project cards, copy the block above and change repo=Python to your repo name -->
 
 </div>
 
 <details>
-<summary><b>🌐 Portfolio Website</b></summary>
+<summary><b>🌐 About my Portfolio Website</b></summary>
 <br/>
 
-A personal portfolio with two experiences: a clean professional SPA and an immersive desktop-style "Creative OS".
+A personal portfolio with two experiences: a clean professional SPA (projects, blog, timeline, gallery, resume) and an immersive desktop-style "Creative OS" (terminal, live windows).
 
 🔗 [i-am-divyanshu.netlify.app](https://i-am-divyanshu.netlify.app/)
 
 </details>
 
+<div align="right"><a href="#top">⬆ back to top</a></div>
+
 ---
 
+<a id="experience"></a>
 ## 💼 Experience
 
 ```
@@ -152,8 +167,11 @@ A personal portfolio with two experiences: a clean professional SPA and an immer
 └──────────────────────────────────────────────────────────────┘
 ```
 
+<div align="right"><a href="#top">⬆ back to top</a></div>
+
 ---
 
+<a id="stats"></a>
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -169,39 +187,11 @@ A personal portfolio with two experiences: a clean professional SPA and an immer
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeCr4cker&bg_color=0f0c29&color=A78BFA&line=7C3AED&point=ffffff&area=true&area_color=302b63&hide_border=true" width="100%" />
-
-</div>
-
-### 🐍 Contribution Snake
-
-<!-- Needs the snake.yml GitHub Action (see setup notes). Delete this block if you don't use it. -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeCr4cker/CodeCr4cker/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeCr4cker/CodeCr4cker/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/CodeCr4cker/CodeCr4cker/output/github-snake-dark.svg" />
-</picture>
-</div>
+<div align="right"><a href="#top">⬆ back to top</a></div>
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=CodeCr4cker&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
+<a id="roadmap"></a>
 ## 🎯 Goals & Roadmap
 
 - [x] Learn HTML, CSS and JavaScript fundamentals
@@ -212,6 +202,8 @@ A personal portfolio with two experiences: a clean professional SPA and an immer
 - [ ] Learn the fundamentals of Cybersecurity and ethical hacking
 - [ ] Make my first open source contribution
 - [ ] Publish a blog post every month
+
+<div align="right"><a href="#top">⬆ back to top</a></div>
 
 ---
 
@@ -226,16 +218,7 @@ A personal portfolio with two experiences: a clean professional SPA and an immer
 
 ---
 
-## 💬 Thought of the Moment
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
-
-</div>
-
----
-
+<a id="connect"></a>
 ## 📬 Let's Connect
 
 <div align="center">
@@ -252,11 +235,6 @@ A personal portfolio with two experiences: a clean professional SPA and an immer
 <br/>
 
 ### ⭐ If you like my work, drop a star on my repos!
-
-<br/>
-
-<!-- Footer visitor counter -->
-<img src="https://hits.sh/github.com/CodeCr4cker.svg?style=for-the-badge&label=Total%20Visits&color=7C3AED&labelColor=302b63" alt="Visit counter" />
 
 </div>
 
